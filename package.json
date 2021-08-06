@@ -1,7 +1,7 @@
 {
   "name": "portfolio-project",
   "version": "1.0.0",
-  "description": "Git and NPM",
+  "description": "Project Portfolio Daycare Website",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,11 @@
   "homepage": "https://github.com/samanthadones/portfolio-project#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }

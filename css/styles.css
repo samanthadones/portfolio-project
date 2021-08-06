@@ -1,0 +1,34 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, .card-header, footer {
+    font-family: 'Staatliches', cursive;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30 px;
+    background-color: #FE5A1D;
+    color: white;
+}
+
+.btn {
+    background-color: #FFCF07;
+}
+
+.navbar, footer {
+    background-color: #FFA80F;
+}
+
+.card-body {
+    background-color: #FFCF07;
+}
+
+.card-header {
+    background-color: #FFA80F;
+}
+
+.yellowCard {
+    background-color: #FFF600;
+}
